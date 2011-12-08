@@ -1,0 +1,6 @@
+[DockmanagerHelper]
+Name=Hotot
+Description=Experimental helper for Twitter client Hotot
+Icon=hotot
+AppName=hotot
+DBusName=org.hotot.service
